@@ -21,4 +21,5 @@ How has the number of pickpocketing crimes changed from 2020 to 2023, and how is
 
 This question demonstrates the impact of a global pandemic on crime, specifically pickpocketing–which is highly driven by global tourism to Los Angeles. In tracking the pitpocketing by year, the data also represents the end of global lockdown. It might also help the Los Angeles police department to track whether or not their pickpocketing mitigation efforts have had an effect on the actual number of crimes either increasing or decreasing. Finally, adding an additional element of location to the question would allow the Los Angeles police to track which areas are most prone to the crime of pickpocketing, and therefore give them insight on where to station more officers or focus on awareness efforts. 
 
+<img width="1403" alt="Screenshot 2023-12-06 at 11 22 29 PM" src="https://github.com/meganaldinger/MIST4610-Project-2/assets/141375048/72ffa126-6022-4cb3-abdc-e62db39f7d2b">
 
