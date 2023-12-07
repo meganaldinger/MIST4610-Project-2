@@ -36,12 +36,13 @@ In analyzing the bar graph, we see that West LA–a more residential area of the
 #### Question 2:
 What type of retail establishment in Los Angeles experiences the most shoplifting? For the establishment with the most shoplifting, what demographic (age and sex) is most likely to shoplift? 
 
+#### Importance:
+Shoplifting is a large problem for retail stores, which leads them to invest in loss prevention efforts such as security cameras and other methods. This data would be valuable for large retail corporations to understand which stores are most highly targeted by shoplifters. This would be helpful for both corporations and the LAPD to distribute their resources accurately to combat shoplifting. Additionally, by understanding the demographics of shoplifters, retailers can better anticipate which items are more likely to be targeted. This information can influence inventory management decisions, helping businesses protect high-risk products. Law enforcement and retailers may collaborate to address shoplifting concerns. Understanding the demographics of shoplifters can contribute to community engagement efforts, such as educational programs or outreach initiatives aimed at reducing theft.
+
+
 <img width="1439" alt="Screenshot 2023-12-07 at 12 57 38 AM" src="https://github.com/meganaldinger/MIST4610-Project-2/assets/141375048/c69d1b2a-32a3-4b69-b66f-4bebc7ee66d9">
 <img width="1440" alt="Screenshot 2023-12-07 at 1 30 53 AM" src="https://github.com/meganaldinger/MIST4610-Project-2/assets/141375048/11ea421b-09ca-4713-bddf-f739c51dec5b">
 
-
-#### Importance:
-Shoplifting is a large problem for retail stores, which leads them to invest in loss prevention efforts such as security cameras and other methods. This data would be valuable for large retail corporations to understand which stores are most highly targeted by shoplifters. This would be helpful for both corporations and the LAPD to distribute their resources accurately to combat shoplifting. Additionally, by understanding the demographics of shoplifters, retailers can better anticipate which items are more likely to be targeted. This information can influence inventory management decisions, helping businesses protect high-risk products. Law enforcement and retailers may collaborate to address shoplifting concerns. Understanding the demographics of shoplifters can contribute to community engagement efforts, such as educational programs or outreach initiatives aimed at reducing theft.
 
 #### Manupulations applied to the data set for analysis:
 This line graph gives an overall look at a year’s worth of shoplifting cases refined by the type of retail business. I filtered the data by premises and excluded any that were not retail establishments. I also filtered out all crimes except “Shoplifting - Petty Theft” and “Shoplifting - Grand Theft”. To create the demographic chart, I kept the same filters, but also added both sex and age, with filters to remove irrelevant data. For example, before I filtered the ages, there was a large spike for both genders at 0, which does not make logical sense in the question, so they were removed.
