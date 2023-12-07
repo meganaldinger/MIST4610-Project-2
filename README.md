@@ -14,5 +14,11 @@ This dataset captures incidents of crime within the City of Los Angeles, spannin
 
 
 ## Question 1
+#### Question 1:
 How has the number of pickpocketing crimes changed from 2020 to 2023, and how is this change reflected in areas highly populated by tourism?  
+
+#### Importance:
+
+This question demonstrates the impact of a global pandemic on crime, specifically pickpocketing–which is highly driven by global tourism to Los Angeles. In tracking the pitpocketing by year, the data also represents the end of global lockdown. It might also help the Los Angeles police department to track whether or not their pickpocketing mitigation efforts have had an effect on the actual number of crimes either increasing or decreasing. Finally, adding an additional element of location to the question would allow the Los Angeles police to track which areas are most prone to the crime of pickpocketing, and therefore give them insight on where to station more officers or focus on awareness efforts. 
+
 
